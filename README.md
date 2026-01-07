@@ -1,18 +1,18 @@
 <img src ="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500" alt="Coding"/>
 <h1 align="left">Hi 👋, I'm Oruebor Manasseh</h1>
 <h1 align="left"> 👨‍💻About Me :
-<h3 align="left">A passionate Full Stack developer from Nigeria</h3>
+<h3 align="left">A passionate Full Stack developer and aspiring cloud engineer from Nigeria</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manaboy-07&label=Profile%20views&color=0e75b6&style=flat" alt="manaboy-07" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mana_boy07" target="blank"><img src="https://img.shields.io/twitter/follow/mana_boy07?logo=twitter&style=for-the-badge" alt="mana_boy07" /></a> </p>
 
-- 🔭 I’m currently working on **Meme Generator**
+- 🔭 I’m currently Learning about linux and modern technologies in the web world**
 
-- 🌱 I’m currently learning **Reactjs and Angular Js**
+- 🌱 I’m currently learning **Next js , Nest js for backend and optimization techniques**
 
-- 💬 Ask me about **react,Aos,Javascript**
+- 💬 Ask me about **react,Aos,Javascript, Typescript and maybe python in the future**
 
 - 📫 How to reach me **manassehoruebor@gmail.com**
 
